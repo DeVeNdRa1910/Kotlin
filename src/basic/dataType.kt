@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     var name = "Devendra"
     val gf = "Janhvi"
