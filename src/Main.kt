@@ -9,3 +9,4 @@ fun test() {
 fun temp(){
     print("This is third function")
 }
+// kotlin do not need semicolen(;)
