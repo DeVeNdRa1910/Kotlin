@@ -8,7 +8,7 @@ fun main() {
     println()
     // change 8 with 80
     arr.set(2,80)
-    // or arr[2] = 80
+    arr[4] = 100
     for(i in arr){
         print("$i ")
     }

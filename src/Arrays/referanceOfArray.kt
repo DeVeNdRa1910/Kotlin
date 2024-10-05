@@ -12,14 +12,14 @@ fun main() {
     for(i in arr2){
         print("$i ")
     }
-    arr.set(4,1000)
+    arr2.set(4,1000)
     println()
+    println("After change in arr2")
     print("arr ")
     for(i in arr){
         print("$i ")
     }
     println()
-    println("After change in arr1")
     print("arr2 ")
     for(i in arr2){
         print("$i ")
