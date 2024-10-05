@@ -5,8 +5,9 @@ fun main(args: Array<String>) {
 
 fun test() {
     print("Hello we start journey with kotlin")
+    temp()
 }
 
-fun temp {
+fun temp(){
     print("This is third function")
 }
